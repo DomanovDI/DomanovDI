@@ -19,3 +19,12 @@
 <img src="icons/android.svg" width="50" height="50"  alt="android"/></a>
 <img src="icons/Telegram.svg" width="50" height="50"  alt="telegram"/></a>
 <img src="icons/Jira.png" width="50" height="50"  alt="jira"/></a>
+</p>
+
+## Contacts
+<p align="left">
+<a href="https://t.me/the_aerosmith" target="blank"><img align="center" src="icons/Telegram.svg" alt="the_aerosmith" height="40" width="40" /></a>
+<a href="mailto:domanovdi@yandex.ru" target="blank"><img align="center" src="icons/Yandex_Mail.svg" alt="domanovdi@yandex.ru" height="40" width="40" /></a>
+</p>
+
+
