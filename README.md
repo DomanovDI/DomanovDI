@@ -7,7 +7,6 @@
 <img src="icons/Java.svg" width="50" height="50"  alt="Java"/></a>
 <img src="icons/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
 <img src="icons/Gradle.svg" width="50" height="50"  alt="Gradle"/></a>
-<img src="icons/Maven.svg" width="50" height="50"  alt="Maven"/></a>
 <img src="icons/Selenide.svg" width="50" height="50"  alt="Selenide"/></a>
 <img src="icons/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
 <img src="icons/Allure_Report.svg" width="50" height="50"  alt="Allure_Report"/></a>
@@ -17,6 +16,6 @@
 <img src="icons/Selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>
 <img src="icons/Allure_TO.svg" width="50" height="50"  alt="Allure TestOps"/></a>
 <img src="icons/Appium.svg" width="50" height="50"  alt="Appium"/></a>
-<img src="icons/android.svg" width="100" height="50"  alt="android"/></a>
+<img src="icons/android.svg" width="50" height="50"  alt="android"/></a>
 <img src="icons/Telegram.png" width="50" height="50"  alt="telegram"/></a>
 <img src="icons/Jira.png" width="50" height="50"  alt="jira"/></a>
