@@ -17,5 +17,5 @@
 <img src="icons/Allure_TO.svg" width="50" height="50"  alt="Allure TestOps"/></a>
 <img src="icons/Appium.svg" width="50" height="50"  alt="Appium"/></a>
 <img src="icons/android.svg" width="50" height="50"  alt="android"/></a>
-<img src="icons/Telegram.png" width="50" height="50"  alt="telegram"/></a>
+<img src="icons/Telegram.svg" width="50" height="50"  alt="telegram"/></a>
 <img src="icons/Jira.png" width="50" height="50"  alt="jira"/></a>
