@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Dmitry 👋</h1>
-<h3 align="center">Middle QA Automation Engineer</h3>
+<h2 align="center">Middle QA Automation Engineer</h3>
 
 ## Technologies
 
@@ -27,4 +27,4 @@
 <a href="mailto:domanovdi@yandex.ru" target="blank"><img align="center" src="icons/Yandex_Mail.svg" alt="domanovdi@yandex.ru" height="40" width="40" /></a>
 </p>
 
-
+![Dmitry's github stats](https://github-readme-stats.vercel.app/api?username=DomanovDI&show_icons=true&theme=dark)
